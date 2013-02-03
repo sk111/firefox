@@ -1,0 +1,19 @@
+  {
+    "version": "0.0.01",
+    "name": "tic",
+    "launch_path": "index.html",
+    "description": "The most simple stub for FXOS apps",
+    "icons": {
+    "16": "/home/monamagarwal/Desktop/images.png",
+    "32": "/home/monamagarwal/Desktop/images.png",
+    "48": "/home/monamagarwal/Desktop/images.png",
+    "64": "/home/monamagarwal/Desktop/images.png",
+    "128": "/home/monamagarwal/Desktop/images.png"
+    },
+    "developer": {
+    "name": "Pierre G. Richard",
+    "url": "http://jaxo.com"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en"
+    }
